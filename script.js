@@ -24,5 +24,5 @@ function calculateTotal() {
     number = number + parseInt(year[i]);
   }
   
-  console.log(number);
+  alert("YOUR DATE'S TOTAL IS: " + number);
 }
